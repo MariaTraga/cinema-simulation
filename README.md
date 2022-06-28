@@ -2,7 +2,7 @@
 A cinema complex simulation made in Windows Forms featuring both customer and employee aspects of the cinema.
 The application uses the .NET Framework.
 
-##Features
+## Features
 
 ![image](https://user-images.githubusercontent.com/73944909/176170466-e1b3ab80-03e9-45a4-a111-e2f5e1068c43.png)
 
